@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "input _text", 
+  "value": [
+    "<div class=\"form-group\">", 
+    "    <label>Full Name</label>", 
+    "    <input class=\"form-control\" name=\"fullname\" placeholder=\"Enter your full name\">", 
+    "</div>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "treat_as_ejs": 0, 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}

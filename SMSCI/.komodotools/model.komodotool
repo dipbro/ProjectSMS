@@ -1,0 +1,18 @@
+{
+  "name": "model", 
+  "value": [
+    "!@#_anchor<?php ", 
+    "class Model_name extends CI_Model {", 
+    "", 
+    "    function __construct()", 
+    "    {", 
+    "        parent::__construct();", 
+    "    }", 
+    "}!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "form_group", 
+  "value": [
+    "<div class=\"form-group\">", 
+    "    <label>Text area</label>", 
+    "    ", 
+    "</div>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "false", 
+  "type": "snippet", 
+  "treat_as_ejs": 0, 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Views", 
+  "value": [
+    "!@#_anchor<!doctype html>", 
+    "", 
+    "<html lang=\"en\">", 
+    "<head>", 
+    "    <title><!-- Insert your title here --></title>", 
+    "</head>", 
+    "<body>", 
+    "    <!-- Insert your content here -->", 
+    "</body>", 
+    "</html>", 
+    "!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,28 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Controller", 
+  "value": [
+    "<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');", 
+    "", 
+    "class [[%tabstop:Class_Name]] extends CI_Controller {", 
+    "", 
+    "    function __construct()", 
+    "\t{", 
+    "\t\tparent::__construct();", 
+    "\t\t$this->load->helper(array('form', 'url'));", 
+    "\t}", 
+    "", 
+    "\tpublic function index()", 
+    "\t{", 
+    "\t\t$this->load->view('welcome_message');", 
+    "\t}", 
+    "}", 
+    "!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "false", 
+  "type": "snippet", 
+  "treat_as_ejs": 0, 
+  "auto_abbreviation": "false"
+}
